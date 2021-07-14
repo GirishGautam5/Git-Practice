@@ -1,0 +1,2 @@
+This is file inside the branch
+Testing reset Head command
