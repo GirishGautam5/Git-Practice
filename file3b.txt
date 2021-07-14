@@ -2,3 +2,4 @@ This is file inside the branch
 Testing reset Head command
 This file is updated in git browser
 Now Changes are made in vscode
+This file is updated at the same time in browser
